@@ -3,7 +3,6 @@ cask_args appdir: "~/Applications"
 cask "1password", args: { appdir: "/Applications" }
 cask "adobe-creative-cloud"
 cask "alfred"
-cask "battle-net"
 cask "discord"
 cask "dozer"
 cask "figma"
@@ -26,4 +25,5 @@ cask "vlc"
 cask "vmware-fusion"
 cask "zoom"
 
+mas 'Tailscale', id: 1475387142
 mas 'Xcode', id: 497799835
